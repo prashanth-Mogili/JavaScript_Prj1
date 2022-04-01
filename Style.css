@@ -1,5 +1,5 @@
 body{
-    background-image: url("Images/bg1.jfif");
+    background-image: url("bg1.jfif");
     background-size: 100%;
     font-family: sans-serif;
     color: #444;
@@ -24,7 +24,7 @@ h1,h2{
 }
 
 #page-banner{
-    background-image: url("images/image1.jfif");
+    background-image: url("image1.jfif");
     background-size: 100%;
     align-items: center;
     padding: 10px 0;
